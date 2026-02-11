@@ -18,8 +18,18 @@ I build AI-powered systems — from model training to production-ready APIs.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adit-sharma-8681502b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AditSharma37581" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/adit5689" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/>
+  </a>
+  <a href="https://github.com/Aditsharma12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -48,8 +58,8 @@ I build AI-powered systems — from model training to production-ready APIs.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditsharma12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditsharma12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +67,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditsharma12&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +75,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditsharma12&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
