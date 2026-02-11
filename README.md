@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">⚡ AI Engineer • Backend Developer</h1>
+<h3 align="center">Building Intelligent Systems & Scalable APIs</h3>
 
-<!--
-**Aditsharma12/Aditsharma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Deep Learning, Neural Networks, and backend architecture.  
+I build AI-powered systems — from model training to production-ready APIs.
+
+- 🤖 AI/ML Systems
+- ⚙️ Backend Architecture
+- 🧩 Model Deployment
+- 📈 Scalable API Design
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Development
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+
+---
+
+### 🧠 AI / ML Engineering
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![ONNX](https://img.shields.io/badge/ONNX-111111?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3 align="center">⚡ Building Intelligence With Code</h3>
