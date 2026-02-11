@@ -74,10 +74,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditsharma12&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <h3 align="center">⚡ Building Intelligence With Code</h3>
+<h3 align="center">⚡ making life comfortable</h3>
