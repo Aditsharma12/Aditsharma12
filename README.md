@@ -1,5 +1,7 @@
 <h1 align="center">⚡ AI Engineer • Backend Developer</h1>
 <h3 align="center">Building Intelligent Systems & Scalable APIs</h3>
+<br>
+<h3 align="center">"Domain Expansion Neural Abyss: Autonomous Singularity"</h3>
 
 ---
 
