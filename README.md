@@ -59,10 +59,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditsharma12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditsharma12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"></p>
 
 ---
 
