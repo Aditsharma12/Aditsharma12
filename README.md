@@ -55,7 +55,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
 ![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter)
 
----
+------
 
 ## 📊 GitHub Analytics
 
