@@ -15,7 +15,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 - 🧩 Model Deployment
 - 📈 Scalable API Design
 
-------
+--------
 
 ## 🌐 Connect With Me
 
