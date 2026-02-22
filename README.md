@@ -34,7 +34,7 @@ I build AI-powered systems — from model training to production-ready APIs.
   </a>
 </p>
 
----
+-------
 
 ## 💻 Tech Stack
 
