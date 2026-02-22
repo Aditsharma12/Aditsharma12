@@ -69,11 +69,11 @@ I build AI-powered systems — from model training to production-ready APIs.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditsharma12&theme=tokyo-night&hide_border=true" />
 </p>
 
------
+-------
 
 ## 🏆 GitHub Trophies
 
----
+-----
 
 <h3 align="center">⚡ Building Intelligence With Code</h3>
 <h3 align="center">⚡ making life comfortable</h3>
