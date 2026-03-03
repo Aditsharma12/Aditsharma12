@@ -73,7 +73,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 
 ## 🏆 GitHub Trophies
 
------
+-------
 
 <h3 align="center">⚡ Building Intelligence With Code</h3>
 <h3 align="center">⚡ making life comfortable</h3>
