@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">"🤞 Domain Expansion Neural Abyss: Autonomous Singularity 🤞"</h2>
 
--------------
+---------------
 
 ## 🧠 About Me
 
