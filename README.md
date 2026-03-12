@@ -45,7 +45,7 @@ I build AI-powered systems — from model training to production-ready APIs.
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 
--------
+---------
 
 ### 🧠 AI / ML Engineering
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
