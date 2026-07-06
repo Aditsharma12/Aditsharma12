@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,22&height=200&section=header&text=Adit%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Architect&descAlignY=55&descAlign=50" />
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,40:3B82F6,70:06B6D4,100:10B981&text=Adit%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Engineer%20•%20Backend%20Architect%20•%20ML%20Enthusiast&descAlignY=60&descSize=22&animation=fadeIn" />
+</p>
 <h2 align="center"> 🌌 🤞 Ｄｏｍａｉｎ Ｅｘｐａｎｓｉｏｎ： Ｎｅｕｒａｌ Ａｂｙｓｓ 🤞 🌌 </h2>
 <h4 align="center"><i>Autonomous Singularity</i></h4>
 
@@ -20,44 +19,78 @@
 
 ---
 
-### ⚔️ The Arsenal (Tech Stack)
+# ⚔️ The Arsenal
 
 <div align="center">
 
-**`[CORE DEVELOPMENT & ARCHITECTURE]`**  
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
+### 💻 Core Development & Architecture
 
-**`[NEURAL NETS & ML ENGINEERING]`**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![ONNX](https://img.shields.io/badge/ONNX-111111?style=for-the-badge&logo=onnx&logoColor=005CED)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=F37626)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI • Machine Learning • Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
+
+---
+
+### ☁️ Cloud • DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 🛠️ Tools & IDEs
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Upstash-00C98D?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-### 📊 System Diagnostics (GitHub Stats)
+# 🔥 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditsharma12&theme=tokyo-night&hide_border=true" alt="Adit's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditsharma12&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" />
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aditsharma12&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="Contribution Graph"
+  />
+</p>
 
 ---
-
-
 ### 🌐 Establish Connection
 
 <div align="center">
@@ -76,5 +109,6 @@
 </div>
 
 <br>
+
 <h3 align="center">⚡ Building Intelligence With Code ⚡</h3>
 <h5 align="center"><i>making life comfortable</i></h5>
