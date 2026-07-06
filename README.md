@@ -46,7 +46,6 @@
 ### 📊 System Diagnostics (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditsharma12&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="Adit's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditsharma12&theme=tokyo-night&hide_border=true" alt="Adit's GitHub Streak" />
 </div>
 
@@ -58,13 +57,6 @@
 
 ---
 
-### 🏆 Milestone Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditsharma12&theme=tokyo-night&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ### 🌐 Establish Connection
 
